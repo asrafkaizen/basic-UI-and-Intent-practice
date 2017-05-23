@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UIPractice</string>
+    <string name="course_prompt">Choose a course</string>
+    <string-array name="utp_courses">
+        <item>Mechanical Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Petroleum Engineering</item>
+        <item>Petroleum Geoscience</item>
+        <item>Information Technology</item>
+        <item>Business System</item>
+    </string-array>
+</resources>
